@@ -1,0 +1,141 @@
+@font-face {
+    font-family: helvetica-thin;
+    src: url('./assets/helvetica_neue_thin.ttf');
+}
+
+html{background-color:white;color:black;font-family: helvetica-thin; font-size: 16px; height: 100%;}
+html{line-height:130%;margin:0px;padding:0px}
+body{padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;
+	background-color: lightgrey;
+	height: 100%;
+	}
+
+a {color: inherit;}
+section{display: inline-block; width: 30%; float: left}
+p.no-indent{text-indent: 0px;}
+p{text-indent: 40px; padding:0px;margin:5px 0px 5px 0px}
+.footnotes p{text-indent: 2px}
+h1,h2,h3,lh{text-transform:uppercase;font-weight:bold}
+
+h1 {
+	font-size:50px;
+    font: 'Abril Fatface', serif;
+ }
+h2{font-size:18px;}
+h3{font-size:16px;}
+h4{font-size: 14px;}
+
+.center{text-align: center}
+
+h1 a,h2 a,h3 a{text-decoration:none}
+img{border:none;display:block;margin:6px auto 30px auto; width: 75%}
+
+ul{list-style:none;margin: 0px 0px 0px 0px}
+
+/* Start kudos specific css */
+li.navbar {
+	list-style-type: none;
+	padding: 15px;
+	height: auto;
+}
+li.navbar>ul {
+	display: inline;
+	width: 60px;
+	height: 100%;
+}
+div.navbar {
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	background-color: #013a96;
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+	z-index: 100;
+	position: fixed;
+	top: 0;
+	height: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+	div.navbar {
+		position: relative;
+		height: auto;
+		flex-direction: column;
+	}
+}
+h3 h4 h5 {
+	display: inline;
+	width: inherit;
+}
+.navbar-right {
+	margin-right: 50px;
+}
+div.page {
+	margin-top: 50px;
+	min-height: 100%;
+	display: flex;
+	flex-direction:column;
+	justify-content: flex-start;
+	align-items: center;
+	flex-wrap: nowrap;
+	background-image: url("images/bg-horses-small.jpg");
+}
+div.splash {
+	background-blend-mode: darken;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+div.title {
+	color: #efefed;
+	text-align: center;
+	flex-grow: 0;
+	margin-top: 50px;
+	padding: 20px;
+}
+div.enroll {
+	flex-grow: 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: white
+}
+div.login {
+	margin: 0px 40px 0px 40px;
+	padding: 5px 30px 5px 30px;
+	background-color: darkblue;
+	opacity: 50%;
+	display: inline-block;
+}
+div.login:hover {
+	opacity: 100%;
+}
+
+ul.footer {
+	height: 30px;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: flex-end;
+	margin-right: 50px;
+}
+ul.footer>li {
+	padding: 5px 5px 5px 5px;
+}
+div.form {
+	text-align: right;
+}
+
+/* Data charts */
+table.graph >tr>td,th{
+	width: 50px;
+	text-align: right;
+	border: 2px solid darkgrey;
+	padding: 2px 2px 5px 2px;
+}
+table.graph >tr>th {
+	text-align: center;
+}
+table.graph {
+	border-collapse: collapse;
+	background-color: lightgrey;
+}

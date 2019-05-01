@@ -1,0 +1,2451 @@
+{
+  "username": "yeshuamo",
+  "universities": {
+    "Harvard": "rejected",
+    "Princeton": "rejected",
+    "Yale": "accepted",
+    "Chicago": "rejected",
+    "UC Berkeley": "rejected",
+    "Stanford": "rejected",
+    "Pittsburg": "accepted",
+    "Carnegie Mellon": "accepted",
+    "UC Santa Cruz": "rejected",
+    "Michigan": "accepted",
+    "Post": "accepted"
+  },
+  "undergraduateInstitution": "Current bachelor's: Large state school, OK physics, spectacular astronomy. First bachelor's: top-30 large private university.",
+  "major": "Physics",
+  "overallGpa": "3.72",
+  "greQ": "161",
+  "greV": "164",
+  "greW": "5.5"
+}{
+  "username": "911876gev",
+  "universities": {
+    "Accepted": "rejected",
+    "": "accepted",
+    "Duke:": "accepted",
+    "Harvard: 1/17 Interview request via email from PI": "accepted",
+    "Carnegie Mellon:": "accepted",
+    "UPenn:": "accepted",
+    "UChicago:": "accepted",
+    "Princeton: 2/6 Not really an interview, but PI sent me a positive message and we chatted about his research": "accepted"
+  },
+  "undergraduateInstitution": "large university known for physics",
+  "major": "Physics",
+  "overallGpa": "3.92",
+  "greQ": "167",
+  "greV": "164",
+  "greW": "5",
+  "greP": "820"
+}{
+  "username": "neurotal",
+  "universities": {
+
+  },
+  "undergraduateInstitution": "Huge midwestern R1 school, top 50 school in physics",
+  "major": "Honors",
+  "overallGpa": "3.61",
+  "greQ": "162",
+  "greV": "165",
+  "greW": "5",
+  "greP": "640"
+}{
+  "username": "albuser",
+  "universities": {
+    "Stanford": "rejected",
+    "Harvard": "rejected",
+    "MIT": "rejected",
+    "UIUC": "accepted",
+    "Princeton": "rejected",
+    "Caltech": "accepted",
+    "Cornell": "accepted",
+    "U Chicago": "rejected",
+    "UMD": "accepted"
+  },
+  "undergraduateInstitution": "State tech school - top 30 in physics",
+  "major": "Physics",
+  "overallGpa": "3.95",
+  "greQ": "170",
+  "greV": "166",
+  "greW": "4.0",
+  "greP": "950"
+}{
+  "username": "lizphys",
+  "universities": {
+
+  },
+  "undergraduateInstitution": "Large public school, Top 5 Physics/Astrophysics",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "162",
+  "greV": "165",
+  "greW": "4",
+  "greP": "N/A"
+}{
+  "username": "sam1608",
+  "universities": {
+    "Rochester Institute of Technology (March 23:": "rejected",
+    "Florida Institute of Technology (Feb. 14:": "accepted",
+    "Indiana University (Feb. 8:": "rejected",
+    "University of Massachusetts, Amherst (March 2:": "rejected",
+    "University of Iowa (April 11:": "accepted",
+    "Texas A&M University (April 11:": "rejected",
+    "University of Maryland, Baltimore County (Applied Physics) (April 21:": "rejected",
+    "University of Western Ontario (July 12: No status change; Assuming": "rejected",
+    "Wesleyan University (MA) (March 14:": "rejected",
+    "Vanderbilt University (March 19:": "rejected",
+    "University of Missouri (Physics) (May 18:": "rejected",
+    "Swinburne University (March 5:": "rejected",
+    "Aix": "accepted",
+    "York University (MSc) (July 12: No status change; Assuming": "rejected",
+    "KU Leuven (Master of Astronomy & Astrophysics) (March 27:": "accepted",
+    "University of Western Australia (Master of Physics) (Feb. 27:": "accepted",
+    "Leiden University (MSc Astronomy) (July 10:": "accepted",
+    "Queen's University (MSc Physics) (March 29:": "rejected",
+    "Ball State University (MS Physics) (March 19:": "accepted",
+    "Australian National University (Master of Astronomy & Astrophysics": "accepted"
+  },
+  "undergraduateInstitution": "No reputation in physics (India)",
+  "major": "N/A",
+  "overallGpa": "9.38",
+  "greQ": "157",
+  "greV": "150",
+  "greW": "2",
+  "greP": "700"
+}{
+  "username": "confromotron",
+  "universities": {
+    "Caltech": "rejected",
+    "Berkeley": "rejected",
+    "Stanford": "rejected",
+    "Princeton": "rejected",
+    "UCSB": "rejected",
+    "Waterloo": "rejected",
+    "University of Maryland": "rejected",
+    "Oxford": "rejected"
+  },
+  "undergraduateInstitution": "Big State school, ranked ~15 for physics",
+  "major": "Doubling",
+  "overallGpa": "3.65",
+  "greQ": "163",
+  "greV": "160",
+  "greW": "3.5",
+  "greP": "900"
+}{
+  "username": "Byzantium1453",
+  "universities": {
+    "Stanford": "rejected",
+    "University of Michigan Ann Arbor": "rejected",
+    "Univeristy of Colorado Boulder": "rejected",
+    "UCLA": "rejected",
+    "University of Washington Seattle": "rejected",
+    "Even with a low GPA you can get into top": "accepted"
+  },
+  "undergraduateInstitution": "Flagship State University, top 20 in physics",
+  "major": "Physics",
+  "overallGpa": "3.4",
+  "greQ": "164",
+  "greV": "170",
+  "greW": "6",
+  "greP": "830"
+}{
+  "username": "JAY",
+  "universities": {
+    "Applying to Where: Accepted Interview/Wait": "rejected",
+    "Applying to Where:": "accepted",
+    "~ University of Michigan: Nuclear Engineering": "accepted",
+    "~ University of Iowa: Physics": "accepted",
+    "~ City University of New York: Material Sciences": "accepted",
+    "~ University of Saskatchewan (Canada): Physics": "accepted",
+    "~ University of Alaska, Fairbanks: Physics": "accepted",
+    "~ University of Wisconsin, Madison: Physics": "rejected",
+    "~ University of Washington: Aeronautics & Astronautics": "rejected",
+    "~ University of Colorado, Boulder: Physics": "rejected",
+    "~ Columbia University: Applied Physics": "rejected",
+    "~ University of Rochester: Physics": "rejected",
+    "~ UC San Diego: Physics": "rejected"
+  },
+  "undergraduateInstitution": "Medium-sized Public University, Not known for physics",
+  "major": "Physics",
+  "overallGpa": "3.78",
+  "greQ": "164",
+  "greV": "161",
+  "greW": "4.5",
+  "greP": "620"
+}{
+  "username": "Supratik",
+  "universities": {
+
+  },
+  "undergraduateInstitution": "10th best Indian university in QS ranking. No known reputation.",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "N/A",
+  "greV": "N/A",
+  "greW": "N/A",
+  "greP": "N/A"
+}{
+  "username": "finesagan",
+  "universities": {
+    "UCSB": "rejected",
+    "Yale": "rejected",
+    "UPenn": "rejected",
+    "U Chicago": "rejected",
+    "Cornell": "rejected",
+    "UIUC": "rejected",
+    "CU Boulder": "accepted",
+    "University of Michigan": "accepted",
+    "University of Washington": "accepted",
+    "UCSD": "accepted",
+    "NYU": "accepted",
+    "Pennsylvania State University": "accepted",
+    "Boston University": "accepted",
+    "University of Oregon": "accepted",
+    "UC Riverside": "accepted"
+  },
+  "undergraduateInstitution": "Small state school",
+  "major": "Physics",
+  "overallGpa": "4.0",
+  "greQ": "165",
+  "greV": "159",
+  "greW": "3.5",
+  "greP": "850"
+}{
+  "username": "yougivemeahadron",
+  "universities": {
+    "Stanford": "rejected",
+    "U Chicago": "rejected",
+    "Berkeley": "rejected",
+    "Cornell": "rejected",
+    "CU Boulder": "accepted",
+    "Michigan": "rejected",
+    "Northwestern": "rejected"
+  },
+  "undergraduateInstitution": "medium state university w/ no grad program",
+  "major": "Physics",
+  "overallGpa": "3.99",
+  "greQ": "169",
+  "greV": "157",
+  "greW": "4",
+  "greP": "810"
+}{
+  "username": "pistachion",
+  "universities": {
+    "UT Austin (May 3:": "rejected",
+    "UW Seattle (Mar. 20:": "rejected",
+    "MIT (Feb. 13:": "rejected",
+    "UChicago (Feb. 1:": "rejected",
+    "UC Berkeley (Feb. 23:": "rejected",
+    "University of Minnesota (Jan. 22:": "accepted",
+    "UW Madison (Jan. 30:": "accepted",
+    "UM Ann Arbor (Jan. 29:": "accepted",
+    "Stony Brook (Jan. 25:": "accepted"
+  },
+  "undergraduateInstitution": "small private liberal arts",
+  "major": "physics",
+  "overallGpa": "4.0",
+  "greQ": "166",
+  "greV": "164",
+  "greW": "4.5",
+  "greP": "890"
+}{
+  "username": "xuning",
+  "universities": {
+    "Harvard": "accepted",
+    "Princeton": "accepted",
+    "MIT": "accepted",
+    "Caltech": "accepted",
+    "Stanford": "accepted",
+    "Berkeley": "accepted",
+    "UChicago": "accepted",
+    "Michigan": "accepted",
+    "Johns Hopkins": "accepted",
+    "Upenn": "accepted",
+    "UIUC": "accepted",
+    "UCSD": "accepted"
+  },
+  "undergraduateInstitution": "Large private school. good reputation in physics.",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "170",
+  "greV": "165",
+  "greW": "4",
+  "greP": "990"
+}{
+  "username": "sumotongs",
+  "universities": {
+    "MIT": "rejected",
+    "Harvard": "rejected",
+    "UC Berkeley": "rejected",
+    "University of Chicago": "rejected",
+    "University of Illinois, Urbana Champaign": "rejected",
+    "University of Maryland, College Park": "rejected",
+    "Cornell University": "rejected",
+    "Princeton University": "rejected",
+    "Boston University": "rejected",
+    "Notre Dame": "accepted"
+  },
+  "undergraduateInstitution": "Well known South Asian university, OK reputation in Physics",
+  "major": "Engineering",
+  "overallGpa": "N/A",
+  "greQ": "170",
+  "greV": "164",
+  "greW": "2",
+  "greP": "930"
+}{
+  "username": "fznfire",
+  "universities": {
+    "Luckily found three planets at the end of this summer in K2. Paper": "accepted",
+    "California Institute of Technology": "accepted",
+    "MIT": "accepted",
+    "Yale University": "accepted",
+    "University of Colorado": "accepted",
+    "Boston University": "accepted",
+    "University of Texas, Austin": "accepted",
+    "University of Arizona": "accepted",
+    "University of Washington": "rejected",
+    "University of California, Santa Cruz": "rejected",
+    "Princeton University": "rejected",
+    "Harvard University": "rejected",
+    "Cornell University": "rejected"
+  },
+  "undergraduateInstitution": "Liberal Arts",
+  "major": "N/A",
+  "overallGpa": "4.00",
+  "greQ": "170",
+  "greV": "158",
+  "greW": "4.0",
+  "greP": "860"
+}{
+  "username": "milogoestogradschool",
+  "universities": {
+    "Yale University": "rejected",
+    "Michigan State University": "accepted",
+    "University of North Carolina, Chapel Hill": "accepted",
+    "University of Massachusetts, Amherst": "accepted",
+    "Iowa State University": "accepted",
+    "Lehigh University": "accepted",
+    "University of Maine": "accepted"
+  },
+  "undergraduateInstitution": "Small state school with little to no physics reputation.",
+  "major": "Physics",
+  "overallGpa": "3.85",
+  "greQ": "164",
+  "greV": "159",
+  "greW": "4.0",
+  "greP": "750"
+}{
+  "username": "straightwhitemale",
+  "universities": {
+    "UC Santa Cruz": "rejected",
+    "UC Los Angeles": "rejected",
+    "UC Riverside": "accepted",
+    "UC San Diego": "rejected",
+    "University of Southern California": "rejected",
+    "Texas A&M": "accepted",
+    "Baylor": "accepted",
+    "University of Florida": "accepted"
+  },
+  "undergraduateInstitution": "Small liberal arts state school, not a big physics rep",
+  "major": "Physics",
+  "overallGpa": "3.88",
+  "greQ": "164",
+  "greV": "160",
+  "greW": "5.5",
+  "greP": "790"
+}{
+  "username": "CanIHasPHDPlz",
+  "universities": {
+    "Waitlisted ACCEPTED": "rejected",
+    "Waitlisted": "accepted",
+    "Indiana Jan 6:": "accepted",
+    "Michigan Feb 7:": "rejected",
+    "Wisconsin Jan 31:": "accepted",
+    "Thoughts: Was surprised by the Wisconsin": "accepted",
+    "Very pleased with the Indiana acceptance. I went for an \"incognito\" visit the weekend after I got": "accepted"
+  },
+  "undergraduateInstitution": "Midwest Liberal arts school known mostly for its Business and Engineering",
+  "major": "Physics",
+  "overallGpa": "3.97",
+  "greQ": "165",
+  "greV": "162",
+  "greW": "3.5",
+  "greP": "840"
+}{
+  "username": "scarman",
+  "universities": {
+    "MIT": "rejected",
+    "Harvard": "rejected",
+    "Caltech": "rejected",
+    "Cornell": "rejected",
+    "UChicago": "rejected",
+    "TO ALL MY FELLOW UCHICAGO REJECTS: Do not feel bad at all. They were really tight on admissions this year. When I talked to the chair this past summer, he said they had an extraordinarily large retention last year and were going to send out a lot fewer acceptances this year. There are plenty of perfect applicants that got": "rejected",
+    "TO ALL MY FELLOW UCHICAGO REJECTS: Do not feel bad at all. They were really tight on admissions this year. When I talked to the chair this past summer, he said they had an extraordinarily large retention last year and were going to send out a lot fewer acceptances this year. There are plenty of perfect applicants that got rejected. I estimate that their": "accepted",
+    "(to be added after I get more acceptances/": "rejected",
+    "(to be added after I get more": "accepted"
+  },
+  "undergraduateInstitution": "Large state school, ~ #20 in physics",
+  "major": "Physics",
+  "overallGpa": "3.77",
+  "greQ": "164",
+  "greV": "158",
+  "greW": "4.5",
+  "greP": "890"
+}{
+  "username": "masterwindu",
+  "universities": {
+    "Caltech": "rejected",
+    "Princeton": "rejected",
+    "Chicago": "rejected",
+    "Illinois at Urbana Champaign": "rejected",
+    "UC Santa Babara": "rejected",
+    "Maryland": "rejected",
+    "Penn State": "accepted",
+    "Boston": "accepted",
+    "PSI": "rejected"
+  },
+  "undergraduateInstitution": "UK university",
+  "major": "Theoretical",
+  "overallGpa": "N/A",
+  "greQ": "164",
+  "greV": "162",
+  "greW": "4",
+  "greP": "990"
+}{
+  "username": "medphys761",
+  "universities": {
+    "University of Wisconsin, Madison": "accepted",
+    "UCLA": "accepted",
+    "U Chicago": "accepted",
+    "University of Minnesota": "rejected",
+    "UC Berkeley": "accepted"
+  },
+  "undergraduateInstitution": "Public University, average for physics",
+  "major": "Physics",
+  "overallGpa": "3.73",
+  "greQ": "168",
+  "greV": "164",
+  "greW": "6.0",
+  "greP": "760"
+}{
+  "username": "brucewayne",
+  "universities": {
+    "UCSB :": "rejected",
+    "UCB :": "rejected",
+    "Yale :": "rejected",
+    "University of Chicago :": "rejected",
+    "Northwestern University :": "rejected",
+    "MIT :": "rejected"
+  },
+  "undergraduateInstitution": "Masters from largely Engineering Institute (well known in my country)",
+  "major": "Physics",
+  "overallGpa": "7.89",
+  "greQ": "153",
+  "greV": "166",
+  "greW": "2",
+  "greP": "840"
+}{
+  "username": "msdecaro",
+  "universities": {
+
+  },
+  "undergraduateInstitution": "N/A",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "N/A",
+  "greV": "N/A",
+  "greW": "N/A",
+  "greP": "N/A"
+}{
+  "username": "Schroedingers2c",
+  "universities": {
+    "": "rejected",
+    "Rejected Waitlisted": "accepted",
+    "UCSB (Feb. 28:": "rejected",
+    "U Maryland (Feb. 13:": "rejected",
+    "Yale (Feb. 7:": "rejected",
+    "U Chicago (Feb. 2:": "rejected",
+    "U Southern California (Mar. 22:": "rejected",
+    "Perimeter Institute (Mar. 28:": "rejected",
+    "U Oxford (MSc.) (Mar. 19:": "accepted",
+    "Imperial College (Interview on March 6th) (Mar. 14: Waitlisted via e": "rejected",
+    "EDIT: Okay, the \"expected\"": "rejected"
+  },
+  "undergraduateInstitution": "Capital state uni in my (European) country - exceptional in experimental quantum optics, and also quite good in quantum information",
+  "major": "BSc",
+  "overallGpa": "3.95",
+  "greQ": "159",
+  "greV": "159",
+  "greW": "4.5",
+  "greP": "780"
+}{
+  "username": "zhutchens1",
+  "universities": {
+    "UNC Chapel Hill": "accepted",
+    "University of Arizona": "rejected",
+    "Michigan State University": "rejected",
+    "Texas A&M University": "accepted",
+    "Georgia Tech": "rejected",
+    "Penn State": "rejected",
+    "Indiana University, Bloomington": "accepted",
+    "Stony Brook State University": "accepted",
+    "New Mexico Tech": "accepted"
+  },
+  "undergraduateInstitution": "Small liberal arts college. Some national recognition for undergraduate physics education but not for research.",
+  "major": "Physics",
+  "overallGpa": "3.8",
+  "greQ": "160",
+  "greV": "153",
+  "greW": "4.5",
+  "greP": "670"
+}{
+  "username": "Ilikepulsars",
+  "universities": {
+    "Accepted": "rejected",
+    "": "accepted",
+    "Purdue University": "accepted",
+    "University of New Mexico": "accepted",
+    "University of Wisconsin": "accepted",
+    "West Virginia University": "accepted",
+    "Columbia University": "rejected",
+    "Cornell University": "rejected",
+    "Ohio State University": "rejected",
+    "Pennsylvania State University": "rejected",
+    "University of Arizona": "rejected",
+    "University of Colorado Boulder": "rejected",
+    "University of Maryland, College Park": "rejected",
+    "University of Virginia": "rejected",
+    "McGill University": "accepted",
+    "University of British Columbia": "rejected",
+    "Universiteit Leiden": "accepted"
+  },
+  "undergraduateInstitution": "mid- to large-size public research university in the Midwest, small but good physics program, known for astrophysics research",
+  "major": "Physics",
+  "overallGpa": "3.63",
+  "greQ": "164",
+  "greV": "165",
+  "greW": "4.0",
+  "greP": "830"
+}{
+  "username": "dmForDM",
+  "universities": {
+    "Boston University": "accepted",
+    "UCSC": "accepted",
+    "Yale": "rejected",
+    "University of Michigan": "rejected",
+    "Cornell": "rejected",
+    "Stanford": "rejected",
+    "UC Berkeley": "rejected",
+    "UCSB": "rejected",
+    "Columbia": "rejected",
+    "My prediction:": "rejected",
+    "My prediction: Rejected from Berkeley, Santa Barbara, Stanford, and Columbia. I'll get into exactly one of Yale, Cornell, U": "accepted",
+    "If you got": "accepted"
+  },
+  "undergraduateInstitution": "Small top 20 LAC",
+  "major": "Physics",
+  "overallGpa": "3.78",
+  "greQ": "167",
+  "greV": "164",
+  "greW": "4.5",
+  "greP": "820"
+}{
+  "username": "Dewgale",
+  "universities": {
+    "McGill": "accepted",
+    "Simon Fraser": "accepted",
+    "MIT": "rejected",
+    "Princeton": "rejected"
+  },
+  "undergraduateInstitution": "Canadian Public University, no real reputation as far as I know",
+  "major": "Physics",
+  "overallGpa": "4.15",
+  "greQ": "166",
+  "greV": "167",
+  "greW": "4.5",
+  "greP": "800"
+}{
+  "username": "astrocytosis",
+  "universities": {
+    "University of Illinois at Urbana": "rejected",
+    "UMD": "rejected",
+    "Duke University": "rejected",
+    "University of Michigan at Ann Arbour": "rejected",
+    "Cornell": "rejected",
+    "SUNY Stony Brook": "rejected",
+    "RPI": "accepted",
+    "Harvard": "rejected"
+  },
+  "undergraduateInstitution": "Small highly ranked liberal arts college in New England. Good reputation overall, but no particular reputation in physics.",
+  "major": "Physics",
+  "overallGpa": "3.41",
+  "greQ": "160",
+  "greV": "170",
+  "greW": "N/A",
+  "greP": "600"
+}{
+  "username": "camarasi",
+  "universities": {
+    "Caltech": "rejected",
+    "MIT": "rejected",
+    "Stanford": "rejected",
+    "Boulder": "rejected",
+    "UCSB": "rejected",
+    "U of Michigan": "accepted",
+    "OSU": "rejected",
+    "Kentucky": "accepted",
+    "NotreDame": "accepted"
+  },
+  "undergraduateInstitution": "Small private midwestern liberal arts school - no rep in physics",
+  "major": "Physics",
+  "overallGpa": "3.97",
+  "greQ": "157",
+  "greV": "159",
+  "greW": "4",
+  "greP": "970"
+}{
+  "username": "PugzRule1",
+  "universities": {
+    "University of Chicago": "rejected",
+    "Michigan": "rejected",
+    "Colorado": "rejected",
+    "Washington University StL": "rejected",
+    "University of Illinois Chicago": "accepted"
+  },
+  "undergraduateInstitution": "Medium State School. No Graduate Program. Little to no reputation in Physics",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "160",
+  "greV": "158",
+  "greW": "3.5",
+  "greP": "830"
+}{
+  "username": "john_ck",
+  "universities": {
+    "University of Illinois Urbana Champaign": "rejected",
+    "Columbia": "rejected",
+    "Michigan": "rejected",
+    "Maryland": "rejected",
+    "UPenn": "rejected",
+    "Johns Hopkins": "rejected",
+    "CU Boulder": "rejected",
+    "Cornell": "rejected",
+    "Washington": "accepted",
+    "Case Western": "accepted",
+    "Ohio State": "accepted",
+    "Applied to many reach schools, with Ohio State and UW being ~ match ones. As a result, the large amounts of rejections are not too disheartening. The": "rejected",
+    "Applied to many reach schools, with Ohio State and UW being ~ match ones. As a result, the large amounts of rejections are not too disheartening. The rejections hurt, but nothing will beat that feeling when the first": "accepted"
+  },
+  "undergraduateInstitution": "Small liberal arts",
+  "major": "Physics",
+  "overallGpa": "3.92",
+  "greQ": "167",
+  "greV": "165",
+  "greW": "4.5",
+  "greP": "860"
+}{
+  "username": "Caustic",
+  "universities": {
+
+  },
+  "undergraduateInstitution": "International middle-sized Engineering/Scientific University 20\u00b110 worldwide for physics?",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "169",
+  "greV": "170",
+  "greW": "2",
+  "greP": "930"
+}{
+  "username": "Reissner",
+  "universities": {
+    "Accepted Waitlist": "rejected",
+    "": "accepted",
+    "UC San Diego": "rejected",
+    "Ohio State": "accepted",
+    "Carnegie Mellon": "rejected",
+    "Purdue University": "rejected",
+    "University of Michigan": "accepted",
+    "University of Chicago": "accepted",
+    "UC Berkeley": "rejected",
+    "UCSF": "rejected",
+    "Princeton": "accepted",
+    "University of Washington": "accepted",
+    "I wanted to add though, for people in future years, that this process was tough and it was long but you will get through it. I had three scenarios come up during the application season that sucked (and I'm sharing them because maybe you have them too and now you know you aren't allow): getting my PGRE scores back, getting rejected after an interview, and declining offers to schools I had interviewed at and really liked. After I got my PGRE scores back I almost gave up applying to graduate school this year but then I decided to push myself to still apply to some of the physics programs I was going to apply to and I also branched out and looked at programs that still had my field of research (biophysics) but didn't require the PGRE. Looking back on it, I am so glad I did this because not only did I get into a pretty good physics program (which just goes to show that the PGREs aren't everything), but I ended up going into a biophysics/quant. bio program instead of physics. Now as for the": "rejected",
+    "I wanted to add though, for people in future years, that this process was tough and it was long but you will get through it. I had three scenarios come up during the application season that sucked (and I'm sharing them because maybe you have them too and now you know you aren't allow): getting my PGRE scores back, getting rejected after an interview, and declining offers to schools I had interviewed at and really liked. After I got my PGRE scores back I almost gave up applying to graduate school this year but then I decided to push myself to still apply to some of the physics programs I was going to apply to and I also branched out and looked at programs that still had my field of research (biophysics) but didn't require the PGRE. Looking back on it, I am so glad I did this because not only did I get into a pretty good physics program (which just goes to show that the PGREs aren't everything), but I ended up going into a biophysics/quant. bio program instead of physics. Now as for the rejection after an interview, it sucks but just understand that if you have a couple of interviews then odds are you'll get at least one acceptance (I got 3/5 acceptances from interviews) and that you are good enough (if multiple schools thought you were good enough to interview then you are good enough to go there, it just might be a really competitive year with low funding so less acceptances). Finally, declining offers to places you like is hard, it feels like breaking up with someone. And it's also something you may feel like you can't talk about because your peers may not have multiple offers, so just know that other people also go through this and it's okay to feel sad about declining an offer. For me, I let myself feel sad for about a day and then I just focused on how excited I was about the program I": "accepted"
+  },
+  "undergraduateInstitution": "Large state school",
+  "major": "Physics",
+  "overallGpa": "3.99",
+  "greQ": "167",
+  "greV": "158",
+  "greW": "4.5",
+  "greP": "N/A"
+}{
+  "username": "weasel_lord",
+  "universities": {
+    "Oregon": "accepted",
+    "Mines": "accepted",
+    "CU Boulder": "rejected",
+    "U of Utah": "accepted",
+    "CSU Ft. Collins": "rejected",
+    "MSU Bozeman": "rejected",
+    "UC Davis": "rejected",
+    "Washington": "rejected",
+    "UC Santa Cruz": "rejected",
+    "NAU": "rejected",
+    "Boulder": "rejected",
+    "U Arizona Tucson": "rejected",
+    "Calgary": "rejected"
+  },
+  "undergraduateInstitution": "small liberal arts college, exceptional math, geology, below average physics.",
+  "major": "Physics",
+  "overallGpa": "3.6",
+  "greQ": "167",
+  "greV": "167",
+  "greW": "4.5",
+  "greP": "700"
+}{
+  "username": "iamaphysicist1",
+  "universities": {
+    "Georgia Tech": "rejected"
+  },
+  "undergraduateInstitution": "B.Sc. from a not so highly reputed university (but well known in my country)",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "161",
+  "greV": "150",
+  "greW": "2",
+  "greP": "N/A"
+}{
+  "username": "physphys95",
+  "universities": {
+    "Cambridge": "accepted",
+    "Harvard": "rejected",
+    "Stanford": "rejected",
+    "MIT": "rejected",
+    "Berkeley": "rejected",
+    "Princeton": "rejected",
+    "Yale": "rejected",
+    "Cornell": "accepted",
+    "Illinois": "accepted",
+    "Chicago": "rejected",
+    "Michigan": "rejected"
+  },
+  "undergraduateInstitution": "Large Canadian university, no physics reputation",
+  "major": "Biological",
+  "overallGpa": "N/A",
+  "greQ": "168",
+  "greV": "156",
+  "greW": "4.0",
+  "greP": "900"
+}{
+  "username": "summer95",
+  "universities": {
+
+  },
+  "undergraduateInstitution": "N/A",
+  "major": "Physics",
+  "overallGpa": "3.91",
+  "greQ": "163",
+  "greV": "162",
+  "greW": "4.5",
+  "greP": "820"
+}{
+  "username": "physics",
+  "universities": {
+    "MIT Feb. 13:": "rejected",
+    "Caltech Mar. 7:": "rejected",
+    "Harvard Feb. 21:": "rejected",
+    "Princeton Feb. 14:": "rejected",
+    "Stanford Feb. 23:": "rejected",
+    "Cornell Feb. 12:": "rejected",
+    "Chicago Feb. 01:": "rejected",
+    "UC Berkeley Feb. 23:": "rejected",
+    "UC Santa Barbara Feb. 27:": "rejected",
+    "Toronto Jan. 23:": "accepted",
+    "Waterloo Mar. 25:": "accepted"
+  },
+  "undergraduateInstitution": "N/A",
+  "major": "Math",
+  "overallGpa": "N/A",
+  "greQ": "162",
+  "greV": "162",
+  "greW": "4.0",
+  "greP": "930"
+}{
+  "username": "bonjarlow",
+  "universities": {
+    "Michigan (Feb. 8:": "rejected",
+    "Boston U Jan. 24:": "accepted"
+  },
+  "undergraduateInstitution": "N/A",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "161",
+  "greV": "161",
+  "greW": "4.5",
+  "greP": "720"
+}{
+  "username": "Meninja",
+  "universities": {
+    "UIUC": "accepted",
+    "Stony Brook ( SUNY)": "accepted",
+    "Rochester": "accepted",
+    "UW Madison": "accepted",
+    "CU Boulder": "accepted",
+    "Ohio State": "accepted",
+    "U of Chicago": "rejected",
+    "Ann Arbor": "rejected",
+    "Maryland": "rejected",
+    "MIT": "rejected",
+    "Harvard": "rejected",
+    "Stanford": "rejected",
+    "Columbia": "rejected"
+  },
+  "undergraduateInstitution": "Large State School - Top 20 in Physics",
+  "major": "Honors",
+  "overallGpa": "3.78",
+  "greQ": "159",
+  "greV": "162",
+  "greW": "4.0",
+  "greP": "760"
+}{
+  "username": "space",
+  "universities": {
+    "U Chicago": "rejected",
+    "Yale": "rejected",
+    "U Maryland": "rejected",
+    "MIT": "rejected",
+    "UC Berkeley": "rejected",
+    "UCLA": "rejected",
+    "NYU": "rejected",
+    "UCSD": "rejected",
+    "U Washington": "rejected",
+    "Boston U": "rejected",
+    "Arizona State": "accepted",
+    "Ohio State": "accepted",
+    "March 18: More": "rejected"
+  },
+  "undergraduateInstitution": "Large State School, top 50 physics program",
+  "major": "Physics",
+  "overallGpa": "3.66",
+  "greQ": "164",
+  "greV": "158",
+  "greW": "4.5",
+  "greP": "670"
+}{
+  "username": "cocacolapolabear",
+  "universities": {
+    "MIT": "accepted",
+    "U of Michigan": "accepted",
+    "UIUC": "accepted",
+    "U of Maryland": "accepted",
+    "UCLA": "accepted"
+  },
+  "undergraduateInstitution": "Large State School, Good reputation in physics",
+  "major": "Nuclear",
+  "overallGpa": "3.97",
+  "greQ": "168",
+  "greV": "166",
+  "greW": "5.5",
+  "greP": "960"
+}{
+  "username": "mrcrazyface",
+  "universities": {
+    "UMichigan": "accepted",
+    "MIT": "accepted",
+    "UCLA": "accepted",
+    "Yale": "accepted"
+  },
+  "undergraduateInstitution": "Big State School (top 30 U.S. News physics/chemistry)",
+  "major": "Chemical",
+  "overallGpa": "3.82",
+  "greQ": "78",
+  "greV": "93",
+  "greW": "9",
+  "greP": "50"
+}{
+  "username": "dangeorge",
+  "universities": {
+    "UM": "rejected",
+    "Cornell": "rejected",
+    "UMD": "rejected",
+    "Georgia Tech": "rejected",
+    "AEI": "rejected",
+    "Northwestern": "rejected",
+    "UWM": "rejected",
+    "Penn State": "rejected",
+    "University of Florida": "accepted"
+  },
+  "undergraduateInstitution": "Large state school in the US... Good reputation in Physics, better reputation in Astronomy",
+  "major": "Physics",
+  "overallGpa": "3.40",
+  "greQ": "159",
+  "greV": "153",
+  "greW": "4",
+  "greP": "780"
+}{
+  "username": "gradschoolshopper22",
+  "universities": {
+    "Boston University": "rejected",
+    "Columbia University": "rejected",
+    "New York University": "rejected",
+    "University of Pennsylvania": "accepted",
+    "University of Maryland": "rejected",
+    "Pennsylvania State University": "rejected",
+    "Cornell University": "rejected",
+    "University of Colorado Boulder": "rejected",
+    "Stony Brook University": "accepted",
+    "Dartmouth College": "accepted",
+    "Princeton University": "rejected"
+  },
+  "undergraduateInstitution": "private research institution; ranks just inside U.S. Top 100 overall; solid physics department but its reputation is nonexistent",
+  "major": "Physics",
+  "overallGpa": "3.65",
+  "greQ": "165",
+  "greV": "154",
+  "greW": "4.5",
+  "greP": "770"
+}{
+  "username": "TheKevatron",
+  "universities": {
+
+  },
+  "undergraduateInstitution": "Small Liberal Arts School (not known for physics)",
+  "major": "Physics",
+  "overallGpa": "3.97",
+  "greQ": "168",
+  "greV": "161",
+  "greW": "4.5",
+  "greP": "810"
+}{
+  "username": "puggerina",
+  "universities": {
+    "UC Berkeley": "rejected",
+    "U of Maryland": "rejected",
+    "U of Arizona": "accepted",
+    "U of Southern California": "rejected",
+    "U of Michigan": "accepted",
+    "Michigan State": "accepted",
+    "U of Minnesota": "accepted",
+    "UI Urbana": "rejected",
+    "Brown": "rejected",
+    "UMass Amherst": "accepted"
+  },
+  "undergraduateInstitution": "Mid-size public university (not known for physics)",
+  "major": "Physics",
+  "overallGpa": "3.82",
+  "greQ": "165",
+  "greV": "161",
+  "greW": "4.5",
+  "greP": "600"
+}{
+  "username": "un",
+  "universities": {
+    "Northern Arizona, MS Applied Physics": "accepted",
+    "New Mexico Tech, PhD Atmospheric Physics": "accepted",
+    "Southeastern Louisiana, MS Integrated Science and Technology": "accepted",
+    "Montana State, PhD Physics": "rejected",
+    "Stevens Tech, PhD Physics": "rejected",
+    "Chicago, MS Physical Sciences": "rejected",
+    "Update 2/8: This first": "accepted"
+  },
+  "undergraduateInstitution": "Big state school, which has a good physics department with lots of internationally known research going on",
+  "major": "Physics",
+  "overallGpa": "2.9",
+  "greQ": "154",
+  "greV": "158",
+  "greW": "3.5",
+  "greP": "520"
+}{
+  "username": "guesswho",
+  "universities": {
+    "Carnegie Mellon University": "accepted",
+    "Indiana University": "accepted",
+    "UC Berkeley \u2013 Physics": "rejected",
+    "University of Washington": "rejected",
+    "UMass Amherst": "accepted",
+    "UC Davis": "accepted",
+    "Cornell": "rejected",
+    "Notre Dame": "accepted",
+    "University of Pittsburgh": "accepted",
+    "University of Virginia": "accepted"
+  },
+  "undergraduateInstitution": "Medium state school",
+  "major": "Computer",
+  "overallGpa": "3.71",
+  "greQ": "166",
+  "greV": "168",
+  "greW": "5.0",
+  "greP": "700"
+}{
+  "username": "tt589112",
+  "universities": {
+    "Harvard (Biophysics)": "rejected",
+    "MIT (Biophysics)": "rejected",
+    "Michigan (Biophysics) (JAN.2:": "accepted",
+    "Boston U (Physics)(FEB.19:": "accepted",
+    "Northeastern(Physics)(FEB.7:": "accepted",
+    "Duke (Medical Physics)": "rejected",
+    "Boston U (Biomedical Engineering)(FEB.2:": "accepted",
+    "University of Utah (Biomedical Engineering) (DEC. 19:": "accepted",
+    "": "rejected"
+  },
+  "undergraduateInstitution": "Small liberal arts school. No reputation in physics",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "162",
+  "greV": "159",
+  "greW": "4.5",
+  "greP": "820"
+}{
+  "username": "jbxyz",
+  "universities": {
+    "Michigan State (REU school)": "accepted",
+    "Notre Dame": "accepted",
+    "MIT": "rejected",
+    "Caltech": "rejected",
+    "Berkeley": "rejected",
+    "UCSB": "rejected",
+    "Yale": "rejected",
+    "U Maryland": "rejected",
+    "U Wisconsin/Madison |": "accepted",
+    "UC Davis": "rejected"
+  },
+  "undergraduateInstitution": "Top 20 public University - well known for its football team",
+  "major": "Physics",
+  "overallGpa": "3.94",
+  "greQ": "166",
+  "greV": "165",
+  "greW": "4.5",
+  "greP": "900"
+}{
+  "username": "schidan",
+  "universities": {
+
+  },
+  "undergraduateInstitution": "Tech school (USA), good reputation in neighboring states, more research in applied physics",
+  "major": "Physics",
+  "overallGpa": "3.87",
+  "greQ": "166",
+  "greV": "161",
+  "greW": "4.0",
+  "greP": "960"
+}{
+  "username": "dialatone",
+  "universities": {
+    "UCSB (Feb. 27:": "rejected",
+    "Harvard (Feb. 24:": "rejected",
+    "Berkeley (Feb. 21:": "accepted",
+    "Stanford (Feb. 23:": "rejected",
+    "MIT (Feb. 13:": "rejected",
+    "Princeton (Feb. 14:": "rejected",
+    "UChicago (Feb. 1:": "rejected",
+    "UMD (Feb. 12:": "accepted",
+    "Boulder (Mar. 8:": "rejected",
+    "Yale (Feb. 6:": "rejected",
+    "Caltech (Mar. 7:": "rejected",
+    "UCSD (Feb. 2:": "accepted",
+    "Boston (Jan. 24:": "accepted",
+    "UIUC (Feb. 8:": "accepted"
+  },
+  "undergraduateInstitution": "Caltech",
+  "major": "Physics",
+  "overallGpa": "3.55",
+  "greQ": "168",
+  "greV": "169",
+  "greW": "5.0",
+  "greP": "990"
+}{
+  "username": "QuantumCondor",
+  "universities": {
+    "UCSB (Jan. 31:": "accepted",
+    "UChicago (Feb 1:": "rejected",
+    "Cornell (Feb 12:": "rejected",
+    "Princeton (Feb 14:": "rejected"
+  },
+  "undergraduateInstitution": "Big state school, moderate reputation in physics",
+  "major": "Physics",
+  "overallGpa": "3.89",
+  "greQ": "170",
+  "greV": "167",
+  "greW": "4.0",
+  "greP": "900"
+}{
+  "username": "Sypherous",
+  "universities": {
+    "Yale": "rejected",
+    "Harvard": "rejected",
+    "Princeton": "rejected",
+    "Stanford": "rejected",
+    "Caltech": "rejected",
+    "Cornell": "rejected",
+    "UCLA": "rejected",
+    "Duke": "rejected",
+    "Maryland": "rejected",
+    "UIUC": "accepted",
+    "Michigan": "rejected",
+    "Arizona": "accepted",
+    "UC Santa Barbara": "rejected"
+  },
+  "undergraduateInstitution": "Large state school, good reputation in both astro and physics",
+  "major": "Astronomy",
+  "overallGpa": "3.60",
+  "greQ": "156",
+  "greV": "158",
+  "greW": "4.5",
+  "greP": "760"
+}{
+  "username": "Tyronst",
+  "universities": {
+    "Princeton": "rejected",
+    "Columbia": "rejected",
+    "University of Michigan": "rejected",
+    "University of Maryland": "rejected",
+    "University of Chicago": "rejected",
+    "Michigan State University": "rejected",
+    "Yale": "rejected",
+    "SUNY Stony Brook": "accepted",
+    "Rutgers": "rejected",
+    "UIUC": "rejected",
+    "University of Virginia": "rejected",
+    "": "rejected"
+  },
+  "undergraduateInstitution": "University of Colorado - Boulder",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "N/A",
+  "greV": "N/A",
+  "greW": "N/A",
+  "greP": "N/A"
+}{
+  "username": "Rejected",
+  "universities": {
+    "Postby": "rejected",
+    "Columbia": "accepted",
+    "MIT": "accepted",
+    "Harvard": "accepted",
+    "Rice University": "accepted",
+    "Cambridge": "accepted",
+    "Last edited by": "rejected"
+  },
+  "undergraduateInstitution": "State School, 10K students - fairly well known in physics",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "166",
+  "greV": "166",
+  "greW": "3.5",
+  "greP": "N/A"
+}{
+  "username": "N/A",
+  "universities": {
+    "University of Arizona": "accepted",
+    "University of Colorado Boulder": "rejected",
+    "Ohio State University": "accepted",
+    "University of Chicago": "rejected",
+    "Carnegie Mellon University": "accepted",
+    "Cornell University": "rejected",
+    "Columbia University": "rejected",
+    "Bonn": "accepted"
+  },
+  "undergraduateInstitution": "unknown internationally but very well-regarded in my country.",
+  "major": "Physics",
+  "overallGpa": "3.99",
+  "greQ": "160",
+  "greV": "154",
+  "greW": "2",
+  "greP": "990"
+}{
+  "username": "AlexR",
+  "universities": {
+    "U of Michigan (Feb. 7:": "rejected",
+    "U of Florida (Feb. 12:": "accepted",
+    "Indiana U (Feb. 5:": "accepted"
+  },
+  "undergraduateInstitution": "Small liberal arts school.",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "170",
+  "greV": "165",
+  "greW": "4.0",
+  "greP": "890"
+}{
+  "username": "mangianj",
+  "universities": {
+    "Accepted Waitlisted": "rejected",
+    "": "accepted",
+    "UCLA": "rejected",
+    "U Washington": "rejected",
+    "Arizona": "rejected",
+    "Ohio State": "rejected",
+    "Illinois": "accepted",
+    "Ann Arbor": "rejected",
+    "Cornell": "rejected",
+    "Columbia": "rejected",
+    "Maryland": "rejected"
+  },
+  "undergraduateInstitution": "Small liberal arts college in Wisconsin. No astronomy department, reputable physics department.",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "165",
+  "greV": "151",
+  "greW": "4.5",
+  "greP": "730"
+}{
+  "username": "Oblivion",
+  "universities": {
+    "Cornell": "rejected",
+    "Columbia": "rejected",
+    "Johns Hopkins": "rejected",
+    "CU Boulder": "rejected",
+    "U Michigan": "rejected",
+    "Northwestern": "rejected",
+    "U Minnesota": "rejected",
+    "Carnegie Mellon": "rejected",
+    "Rice": "rejected",
+    "Colorado School of Mines": "accepted",
+    "U Rochester": "rejected",
+    "U Oregon": "rejected"
+  },
+  "undergraduateInstitution": "big state, great in physics and engineering",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "163",
+  "greV": "158",
+  "greW": "3.5",
+  "greP": "700"
+}{
+  "username": "beaverbullu6",
+  "universities": {
+    "CU Boulder": "rejected",
+    "Carnegie Mellon": "rejected",
+    "Purdue": "rejected",
+    "WashU St Louis": "rejected",
+    "Brandeis": "rejected",
+    "University of Oregon": "rejected",
+    "UMass Amherst": "rejected"
+  },
+  "undergraduateInstitution": "Known University in country (not for physics though)",
+  "major": "Physics",
+  "overallGpa": "8.2",
+  "greQ": "161",
+  "greV": "153",
+  "greW": "2",
+  "greP": "860"
+}{
+  "username": "ab25",
+  "universities": {
+    "Northwestern University": "rejected",
+    "University of Jyv\u00e4skyl\u00e4": "accepted",
+    "Ohio State University": "rejected",
+    "Florida State University": "accepted"
+  },
+  "undergraduateInstitution": "Big state school (Indiana University) with a good reputation in physics.",
+  "major": "Physics",
+  "overallGpa": "3.8",
+  "greQ": "159",
+  "greV": "165",
+  "greW": "4.5",
+  "greP": "570"
+}{
+  "username": "AJumbleOfNeurons",
+  "universities": {
+    "University of Britsh Columbia": "accepted",
+    "University of Toronto": "accepted",
+    "University of Waterloo": "accepted",
+    "MIT": "rejected",
+    "University of Chicago": "accepted",
+    "University of Cornell": "accepted",
+    "UC Davis": "accepted",
+    "University of Michigan": "accepted"
+  },
+  "undergraduateInstitution": "Large Canadian school, not well known in physics. Somewhat well known for its quantum information, well known for Neuroscience.",
+  "major": "Physics",
+  "overallGpa": "3.95",
+  "greQ": "170",
+  "greV": "170",
+  "greW": "6.0",
+  "greP": "970"
+}{
+  "username": "ys743",
+  "universities": {
+    "Harvard": "accepted",
+    "MIT": "accepted",
+    "Princeton": "accepted",
+    "Caltech": "accepted",
+    "Berkeley": "accepted",
+    "Stanford": "rejected",
+    "UChicago": "accepted",
+    "UIUC": "accepted",
+    "UCSB": "accepted",
+    "UMich": "accepted",
+    "JHU": "accepted",
+    "Maryland": "accepted",
+    "Yale": "rejected",
+    "UCSD": "accepted"
+  },
+  "undergraduateInstitution": "Freshman, Sophomore: Big State University, Good Physics Dep. Junior, senior: Ivy with equally good Physics Dep",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "170",
+  "greV": "158",
+  "greW": "2",
+  "greP": "980"
+}{
+  "username": "thomasNDSU",
+  "universities": {
+    "": "accepted",
+    "Princeton (Feb. 14:": "rejected",
+    "MIT (Feb. 13:": "rejected",
+    "Illinois UC (Feb 9:": "accepted",
+    "Harvard (Feb. 21:": "rejected",
+    "Stanford (Feb. 33:": "rejected",
+    "Michigan (Feb 1:": "accepted",
+    "Stony Brook (Feb. 21:": "rejected",
+    "Rutgers (Feb 1:": "accepted",
+    "UMASS Amherst (Jan. 24:": "accepted",
+    "Wisconsin (Jan. 31:": "accepted"
+  },
+  "undergraduateInstitution": "NDSU. Super small.",
+  "major": "Math",
+  "overallGpa": "3.92",
+  "greQ": "169",
+  "greV": "157",
+  "greW": "5.0",
+  "greP": "880"
+}{
+  "username": "Goosegirl",
+  "universities": {
+    "University of Washington (Physics)": "accepted",
+    "Illinois UC (Physics)": "accepted"
+  },
+  "undergraduateInstitution": "Medium State School",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "170",
+  "greV": "164",
+  "greW": "4.5",
+  "greP": "860"
+}{
+  "username": "Link",
+  "universities": {
+    "Cornell": "accepted",
+    "Princeton": "rejected",
+    "Harvard": "rejected",
+    "MIT": "rejected",
+    "Illinois UC": "rejected",
+    "Stony Brook": "accepted",
+    "Penn State": "accepted",
+    "Ohio State": "accepted",
+    "Carnegie Mellon": "accepted",
+    "University of Rochester": "accepted",
+    "University at Buffalo": "accepted"
+  },
+  "undergraduateInstitution": "Medium State School",
+  "major": "Physics",
+  "overallGpa": "4.0",
+  "greQ": "170",
+  "greV": "167",
+  "greW": "5.5",
+  "greP": "970"
+}{
+  "username": "RUYI101",
+  "universities": {
+    "Virginia Tech": "accepted",
+    "University College London": "accepted"
+  },
+  "undergraduateInstitution": "Top 10 University in Physics in China. However, no reputation around the world.",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "167",
+  "greV": "156",
+  "greW": "2",
+  "greP": "940"
+}{
+  "username": "darthcaedus222",
+  "universities": {
+    "University of Hawai`i at Manoa": "rejected",
+    "Northwestern University": "accepted",
+    "Stanford University": "rejected",
+    "Purdue University": "accepted",
+    "University of California, Merced": "accepted",
+    "University of Toronto": "rejected",
+    "North Dakota State University": "accepted",
+    "MIT": "rejected",
+    "I have to admit, the fact that the first three decisions I got were admissions made me a bit too overconfident in a couple of my other applications. Most of my initial predictions were accurate, however. If I were to have done this application process again, I definitely would have not applied to a couple of the universities that I did and added one or two more places that I would have had a (possibly) better chance of getting into. All it really takes is one": "accepted"
+  },
+  "undergraduateInstitution": "Public state university (U.S.), very small physics department",
+  "major": "B",
+  "overallGpa": "3.93",
+  "greQ": "169",
+  "greV": "150",
+  "greW": "4.0",
+  "greP": "850"
+}{
+  "username": "legendre",
+  "universities": {
+    "Harvard": "rejected",
+    "Cornell": "accepted",
+    "University of Washington": "rejected",
+    "University of Colorado": "accepted",
+    "University of Hawaii": "accepted",
+    "University of Oregon": "accepted",
+    "Overall, I was extremely happy with my results and so fortunate to end up getting into my top choice right at the end. I didn\u2019t expect so many": "accepted"
+  },
+  "undergraduateInstitution": "State school, unknown in physics",
+  "major": "Physics",
+  "overallGpa": "4.0",
+  "greQ": "169",
+  "greV": "163",
+  "greW": "4.0",
+  "greP": "760"
+}{
+  "username": "betastar",
+  "universities": {
+    "One Summer internship at a radio observatory following which I was invited into the prof's research group(where I interned) which I gadly": "accepted",
+    "Caltech": "rejected",
+    "Harvard": "rejected",
+    "Yale": "rejected",
+    "UC Berkeley": "rejected",
+    "U British Columbia": "rejected",
+    "UW, Seattle": "rejected",
+    "Cornell U": "rejected",
+    "After": "rejected",
+    "All you need is one": "accepted"
+  },
+  "undergraduateInstitution": "Foreign technical (heard of IITs?) (*meh* reputation)",
+  "major": "Engineering",
+  "overallGpa": "8.58",
+  "greQ": "163",
+  "greV": "158",
+  "greW": "2",
+  "greP": "920"
+}{
+  "username": "ytterbug",
+  "universities": {
+    "Northwestern Submitted 17 Dec (Invited to and completed interview 26 Jan) (": "accepted",
+    "Colorado, Boulder Submitted 15 Dec (": "accepted",
+    "MIT Submitted 15 Dec (": "rejected",
+    "Harvard Submitted 15 Dec (": "rejected",
+    "Berkeley Submitted 15 Dec (": "rejected",
+    "Maryland, College Park Submitted 15 Dec (": "rejected",
+    "U Chicago Submitted 15 Dec (": "rejected",
+    "UCLA Submitted 15 Dec (\"Recommended for admission\" 9 Feb via email": "accepted",
+    "Stanford Submitted 15 Dec (": "rejected",
+    "Yale Submitted 17 Dec (": "rejected"
+  },
+  "undergraduateInstitution": "N/A",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "162",
+  "greV": "165",
+  "greW": "4",
+  "greP": "850"
+}{
+  "username": "floder01",
+  "universities": {
+    "University of Iowa": "accepted",
+    "University of Wisconsin Madison": "rejected",
+    "University of Minnesota Twin Cities": "accepted",
+    "University of Washington": "rejected",
+    "University of Colorado Boulder": "rejected",
+    "Northwestern University": "rejected",
+    "Overall not entirely surprised by the results. I really enjoyed my Minnesota visit and am incredibly happy to be going there. Not surprised at all to get": "rejected"
+  },
+  "undergraduateInstitution": "Small, midwestern liberal arts school with a small but well-funded and well-equipped physics department.",
+  "major": "Physics",
+  "overallGpa": "3.97",
+  "greQ": "165",
+  "greV": "164",
+  "greW": "5",
+  "greP": "760"
+}{
+  "username": "astro96822",
+  "universities": {
+    "UC Berkeley": "accepted",
+    "Caltech": "accepted",
+    "U of Chicago": "accepted",
+    "UC Santa Cruz": "rejected",
+    "Princeton": "rejected"
+  },
+  "undergraduateInstitution": "ivy",
+  "major": "astrophysics",
+  "overallGpa": "3.94",
+  "greQ": "170",
+  "greV": "166",
+  "greW": "4",
+  "greP": "920"
+}{
+  "username": "frostedflakes",
+  "universities": {
+    "U of Arizona": "accepted",
+    "Caltech": "accepted",
+    "U Chicago": "accepted",
+    "Harvard": "rejected",
+    "Johns Hopkins": "accepted",
+    "MIT": "accepted",
+    "Stanford": "accepted",
+    "UC Berkeley": "accepted",
+    "UC Santa Cruz": "accepted",
+    "UCLA": "accepted"
+  },
+  "undergraduateInstitution": "ivy",
+  "major": "Astrophysics",
+  "overallGpa": "3.90",
+  "greQ": "169",
+  "greV": "168",
+  "greW": "4.5",
+  "greP": "700"
+}{
+  "username": "aziraphale",
+  "universities": {
+    "Caltech": "rejected",
+    "UC Santa Cruz": "accepted",
+    "UCLA": "accepted",
+    "Univ. Michigan": "accepted",
+    "UT Austin": "accepted",
+    "Yale": "accepted"
+  },
+  "undergraduateInstitution": "Top 10 state school",
+  "major": "Astrophysics",
+  "overallGpa": "3.7",
+  "greQ": "160",
+  "greV": "167",
+  "greW": "5.5",
+  "greP": "690"
+}{
+  "username": "histoscienology",
+  "universities": {
+    "Caltech": "accepted",
+    "U Chicago": "accepted",
+    "Harvard": "accepted",
+    "Stanford": "accepted",
+    "UC Berkeley": "accepted",
+    "Princeton": "accepted",
+    "UIUC": "accepted",
+    "UMD": "accepted",
+    "Yale": "accepted",
+    "Rochester": "accepted",
+    "Feb 7 I am speechless already. I'm just recalling when I got": "rejected",
+    "Feb 7 I am speechless already. I'm just recalling when I got rejections everywhere when I was applying for undergrad and only UIUC": "accepted"
+  },
+  "undergraduateInstitution": "big state. Good reputation in CMT/CME.",
+  "major": "Engineerin",
+  "overallGpa": "3.93",
+  "greQ": "180",
+  "greV": "155",
+  "greW": "4.0",
+  "greP": "920"
+}{
+  "username": "liuyuhang599",
+  "universities": {
+    "UCI": "rejected",
+    "UCSD": "rejected",
+    "Caltech": "rejected",
+    "UCR": "accepted"
+  },
+  "undergraduateInstitution": "Top 10 University in China, no reputation in physics",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "170",
+  "greV": "154",
+  "greW": "2",
+  "greP": "970"
+}{
+  "username": "prwells",
+  "universities": {
+    "Stanford": "rejected",
+    "USC": "accepted",
+    "UC Davis": "accepted",
+    "UC Irvine": "accepted"
+  },
+  "undergraduateInstitution": "Small, fairly well-ranked liberal arts institution. No particular physics reputation",
+  "major": "Physics",
+  "overallGpa": "3.78",
+  "greQ": "167",
+  "greV": "164",
+  "greW": "5.5",
+  "greP": "870"
+}{
+  "username": "alphaorionis",
+  "universities": {
+    "Caltech": "accepted",
+    "Harvard": "rejected",
+    "UCLA": "accepted",
+    "UC Santa Cruz": "rejected",
+    "U. Arizona": "accepted",
+    "U. Florida": "accepted",
+    "U. Hawaii": "accepted",
+    "Yale": "rejected",
+    "Final reflections/advice: I'm blown away at how well things have gone. I'm happy I put myself out there in my applications and got a decent mix of acceptances and": "rejected",
+    "Final reflections/advice: I'm blown away at how well things have gone. I'm happy I put myself out there in my applications and got a decent mix of": "accepted"
+  },
+  "undergraduateInstitution": "Private R1",
+  "major": "Physics",
+  "overallGpa": "3.96",
+  "greQ": "165",
+  "greV": "158",
+  "greW": "5.5",
+  "greP": "890"
+}{
+  "username": "MrBrown",
+  "universities": {
+    "Chicago": "rejected",
+    "Johns Hopkins": "rejected",
+    "Cornell": "rejected",
+    "Duke": "rejected",
+    "Ohio State": "rejected",
+    "U. of Arizona": "rejected",
+    "U. of Virginia": "rejected",
+    "UC Santa Cruz": "rejected",
+    "Carnegie Mellon": "rejected",
+    "U. of Rochester": "rejected",
+    "U. of Notre Dame": "rejected",
+    "North Carolina State U": "accepted",
+    "Lehigh University": "rejected",
+    "RPI": "rejected",
+    "Rochester Institute of Technology": "rejected",
+    "Dartmouth College": "rejected",
+    "New Mexico State U": "rejected",
+    "Bonne": "accepted"
+  },
+  "undergraduateInstitution": "International School, Strong in physics",
+  "major": "Physics",
+  "overallGpa": "3.62",
+  "greQ": "159",
+  "greV": "156",
+  "greW": "2",
+  "greP": "850"
+}{
+  "username": "littlephysicslover",
+  "universities": {
+    "Michigan, Ann Arbor": "rejected",
+    "Colorado, Boulder": "rejected",
+    "Duke University": "rejected",
+    "Stony Brook": "accepted",
+    "Carnegie Mellon": "rejected",
+    "Massachusetts, Amherst": "accepted",
+    "University of Virginia": "rejected",
+    "University of Oklahoma": "accepted"
+  },
+  "undergraduateInstitution": "Unknown school from India. No reputation in Physics",
+  "major": "Particle",
+  "overallGpa": "N/A",
+  "greQ": "167",
+  "greV": "162",
+  "greW": "2",
+  "greP": "850"
+}{
+  "username": "abhi2017",
+  "universities": {
+    "IMPRS": "accepted",
+    "U of Arizona": "rejected",
+    "Ohio State": "rejected",
+    "UCSC": "rejected",
+    "CMU": "rejected",
+    "McGill": "rejected",
+    "CU Boulder": "rejected",
+    "ANU": "rejected",
+    "Yale": "rejected",
+    "Boston University": "rejected",
+    "U of Pittsburgh": "accepted",
+    "U of Washington": "rejected",
+    "Why several rejections from US: Its very surprising. US universities don't give any feedback so no idea where my application went wrong. I know many people having similar or even weaker profile than me getting same places where I had (Fall 2017) or have applied. So I can only give one suggestion to the future applicant that don't just think, that if you're good (which you think) you'll get. You need good contacts otherwise just wait for": "rejected"
+  },
+  "undergraduateInstitution": "country's best institute, good reputation in physics",
+  "major": "Physics",
+  "overallGpa": "3.67",
+  "greQ": "163",
+  "greV": "153",
+  "greW": "2",
+  "greP": "920"
+}{
+  "username": "JellyJam",
+  "universities": {
+    "Cornell": "accepted",
+    "UChicago": "accepted",
+    "UCSB": "accepted",
+    "Columbia": "rejected",
+    "UMichigan": "accepted",
+    "UMaryland": "accepted",
+    "UPenn": "rejected",
+    "Johns Hopkins": "accepted",
+    "Northwestern": "accepted",
+    "Georgia Tech": "accepted",
+    "NYU": "accepted",
+    "Harvard SEAS": "accepted",
+    "CalTech": "rejected",
+    "MIT": "rejected",
+    "EDIT 1: I am actually surprised by the UChicago result, especially given the huge number of highly qualified applicants who were": "rejected",
+    "EDIT 1: I am actually surprised by the UChicago result, especially given the huge number of highly qualified applicants who were rejected. Word going around is that this year's admissions cycle was tighter than usual due to over": "accepted",
+    "Also, I want to take this moment to point out that this is my second year applying to physics grad school. Last year I was outright": "rejected"
+  },
+  "undergraduateInstitution": "Top 20 R1 School, Not known for physics",
+  "major": "Applied",
+  "overallGpa": "3.95",
+  "greQ": "166",
+  "greV": "162",
+  "greW": "5.5",
+  "greP": "890"
+}{
+  "username": "starpanda",
+  "universities": {
+    "Chicago": "accepted",
+    "Columbia": "rejected",
+    "Cornell": "accepted",
+    "Harvard": "accepted",
+    "Michigan, Ann Arbor": "accepted",
+    "MIT": "accepted",
+    "Stanford": "accepted",
+    "UC Berkeley": "accepted",
+    "UC Santa Barbara": "accepted"
+  },
+  "undergraduateInstitution": "Big state school, well known for condensed matter",
+  "major": "Physics",
+  "overallGpa": "3.98",
+  "greQ": "166",
+  "greV": "168",
+  "greW": "5.0",
+  "greP": "860"
+}{
+  "username": "user1379857",
+  "universities": {
+    "Stanford": "accepted",
+    "Harvard": "accepted",
+    "Princeton": "rejected",
+    "MIT": "rejected",
+    "Berkeley": "accepted",
+    "Caltech": "rejected",
+    "Cornell": "accepted",
+    "UCLA": "accepted",
+    "UMich": "accepted",
+    "UPenn": "accepted",
+    "Rutgers": "accepted",
+    "Stony Brook": "accepted"
+  },
+  "undergraduateInstitution": "Columbia",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "165",
+  "greV": "162",
+  "greW": "5",
+  "greP": "950"
+}{
+  "username": "era986",
+  "universities": {
+    "Stanford (Feb 24:": "rejected",
+    "UCSB (Jan 30:": "accepted",
+    "UIUC (Mar 2:": "rejected",
+    "Stony Brook (Feb 20: Apply for PhD but": "accepted",
+    "UMich (Feb 8:": "rejected",
+    "Brown (Feb 16:": "accepted",
+    "UBC (Feb 2:": "rejected"
+  },
+  "undergraduateInstitution": "Good university in China...but unknown for physics",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "170",
+  "greV": "156",
+  "greW": "3.5",
+  "greP": "990"
+}{
+  "username": "bfeynman",
+  "universities": {
+    "Princeton (Feb. 14:": "rejected",
+    "Harvard (Feb. 21:": "rejected",
+    "MIT (Feb. 13:": "rejected",
+    "Stanford (Feb. 23:": "rejected",
+    "Chicago (Feb. 02:": "rejected",
+    "Berkeley (Feb. 23:": "rejected",
+    "Umichigan (Feb. 07:": "rejected",
+    "Stony Brook (Jan. 25:": "accepted"
+  },
+  "undergraduateInstitution": "Top-10 Brazilian, unknown",
+  "major": "Physics",
+  "overallGpa": "4.86",
+  "greQ": "167",
+  "greV": "154",
+  "greW": "2",
+  "greP": "990"
+}{
+  "username": "schidan",
+  "universities": {
+    "Purdue": "accepted"
+  },
+  "undergraduateInstitution": "Tech school (USA), good reputation in neighboring states, more research in applied physics",
+  "major": "Physics",
+  "overallGpa": "3.87",
+  "greQ": "166",
+  "greV": "161",
+  "greW": "4.0",
+  "greP": "960"
+}{
+  "username": "N/A",
+  "universities": {
+    "University of Massachusetts": "rejected",
+    "University of South Carolina": "accepted",
+    "Case Western Reserve University Invited to interview 3/7": "accepted",
+    "Wesleyan University": "accepted",
+    "Texas Tech University": "accepted",
+    "Montana State University": "accepted"
+  },
+  "undergraduateInstitution": "Not so famous in Iran, but I passed entrance examination to get there.",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "158",
+  "greV": "150",
+  "greW": "6.5",
+  "greP": "670"
+}{
+  "username": "IcedCoffee",
+  "universities": {
+    "UPenn": "accepted",
+    "Stanford": "rejected",
+    "Berkeley": "rejected",
+    "Johns Hopkins": "rejected",
+    "Michigan": "accepted",
+    "UCSD": "accepted",
+    "Caltech": "rejected",
+    "Cornell": "rejected"
+  },
+  "undergraduateInstitution": "ivy",
+  "major": "Physics",
+  "overallGpa": "3.86",
+  "greQ": "168",
+  "greV": "155",
+  "greW": "4.0",
+  "greP": "990"
+}{
+  "username": "salphylsci",
+  "universities": {
+    "Accepted Waitlisted": "rejected",
+    "": "accepted",
+    "Stanford": "rejected",
+    "Caltech": "rejected",
+    "MIT": "rejected",
+    "UCSB": "accepted",
+    "Berkeley": "rejected",
+    "UCLA": "rejected",
+    "Boulder": "accepted",
+    "UCSD": "rejected",
+    "UCDavis": "accepted"
+  },
+  "undergraduateInstitution": "small private liberal arts college, not known for physics",
+  "major": "BS",
+  "overallGpa": "3.82",
+  "greQ": "170",
+  "greV": "165",
+  "greW": "3.0",
+  "greP": "940"
+}{
+  "username": "astrophys2018",
+  "universities": {
+    "*I expected to get": "rejected",
+    "Penn State": "rejected",
+    "Caltech": "rejected",
+    "Princeton": "rejected",
+    "UCLA": "accepted",
+    "University of Arizona": "rejected",
+    "Columbia": "rejected",
+    "University of Michigan": "rejected",
+    "UC Berkeley": "rejected",
+    "Harvard": "rejected",
+    "UC Santa Cruz": "rejected",
+    "University of Chicago": "rejected",
+    "MIT": "rejected"
+  },
+  "undergraduateInstitution": "Small private university known for physics; Top 10 Physics/Astronomy",
+  "major": "Astrophysics",
+  "overallGpa": "3.47",
+  "greQ": "163",
+  "greV": "161",
+  "greW": "4.0",
+  "greP": "630"
+}{
+  "username": "plaidscientist",
+  "universities": {
+    "UCLA": "accepted",
+    "Princeton": "rejected",
+    "MIT": "accepted",
+    "Univ. of Wisconsin": "accepted",
+    "Dartmouth": "accepted",
+    "CU Boulder": "accepted",
+    "Univ. of Chicago": "rejected",
+    "Columbia": "accepted",
+    "Caltech": "rejected",
+    "Cornell": "accepted",
+    "UIUC": "rejected"
+  },
+  "undergraduateInstitution": "N/A",
+  "major": "Physics",
+  "overallGpa": "3.84",
+  "greQ": "160",
+  "greV": "155",
+  "greW": "5",
+  "greP": "740"
+}{
+  "username": "physics101",
+  "universities": {
+    "Toronto": "rejected",
+    "Queen's": "rejected",
+    "McMaster": "rejected"
+  },
+  "undergraduateInstitution": "Some Indian college",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "155",
+  "greV": "152",
+  "greW": "2",
+  "greP": "630"
+}{
+  "username": "texasbama",
+  "universities": {
+    "Accepted": "rejected",
+    "": "accepted",
+    "UChicago": "accepted",
+    "MIT": "accepted",
+    "Harvard": "accepted",
+    "CU Boulder": "accepted",
+    "Stanford": "accepted",
+    "Columbia": "accepted",
+    "Princeton": "accepted",
+    "Yale": "accepted",
+    "Cornell": "accepted",
+    "Caltech": "accepted"
+  },
+  "undergraduateInstitution": "Public school",
+  "major": "Physics",
+  "overallGpa": "3.98",
+  "greQ": "165",
+  "greV": "165",
+  "greW": "5",
+  "greP": "660"
+}{
+  "username": "jshale",
+  "universities": {
+    "Harvard": "accepted",
+    "Berkeley": "accepted",
+    "UChicago": "accepted",
+    "Cornell": "accepted",
+    "Princeton": "accepted",
+    "Purdue": "accepted"
+  },
+  "undergraduateInstitution": "Ivy-like, big reputation in physics",
+  "major": "Physics",
+  "overallGpa": "3.5",
+  "greQ": "168",
+  "greV": "162",
+  "greW": "4.0",
+  "greP": "950"
+}{
+  "username": "asdf1234",
+  "universities": {
+    "Wisconsin": "rejected",
+    "Michigan": "rejected",
+    "UChicago": "rejected",
+    "UIUC": "rejected",
+    "Washington": "rejected",
+    "Colorado": "rejected",
+    "Toronto": "rejected"
+  },
+  "undergraduateInstitution": "Public school, health science focused with a small physics department.",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "162",
+  "greV": "158",
+  "greW": "3",
+  "greP": "570"
+}{
+  "username": "kumquat",
+  "universities": {
+    "Any Miscellaneous Accomplishments that Might Help: Third author on a publication. It was": "accepted",
+    "Boston University": "accepted",
+    "Columbia": "accepted",
+    "Harvard": "accepted",
+    "MIT": "rejected",
+    "UChicago": "accepted",
+    "UMD": "rejected",
+    "UIUC": "accepted",
+    "Stanford": "rejected"
+  },
+  "undergraduateInstitution": "Ivy, not HYP",
+  "major": "Mathematical",
+  "overallGpa": "N/A",
+  "greQ": "170",
+  "greV": "164",
+  "greW": "5.0",
+  "greP": "740"
+}{
+  "username": "JesseRodriguez24",
+  "universities": {
+    "Stanford University": "accepted",
+    "MIT": "accepted",
+    "Caltech": "rejected",
+    "U Wisconsin": "accepted",
+    "UC San Diego": "accepted",
+    "UC Los Angeles": "accepted",
+    "NSF GRF:": "rejected",
+    "Hertz Foundation:": "rejected",
+    "SSGF:": "rejected"
+  },
+  "undergraduateInstitution": "Oregon State University, no strong physics reputation",
+  "major": "N/A",
+  "overallGpa": "3.93",
+  "greQ": "166",
+  "greV": "160",
+  "greW": "5.0",
+  "greP": "790"
+}{
+  "username": "akander",
+  "universities": {
+    "Uchicago": "accepted",
+    "MIT": "rejected",
+    "Berkeley": "accepted",
+    "Cornell": "accepted",
+    "Princeton": "rejected",
+    "UIUC": "accepted"
+  },
+  "undergraduateInstitution": "Duke University",
+  "major": "Physics",
+  "overallGpa": "3.8",
+  "greQ": "170",
+  "greV": "167",
+  "greW": "5",
+  "greP": "930"
+}{
+  "username": "RustyShackleford",
+  "universities": {
+    "CU Boulder": "rejected",
+    "Princeton": "rejected",
+    "UCLA": "rejected",
+    "UMD": "rejected",
+    "UC Berkeley": "rejected",
+    "UCI": "accepted"
+  },
+  "undergraduateInstitution": "UCSB",
+  "major": "N/A",
+  "overallGpa": "3.75",
+  "greQ": "159",
+  "greV": "167",
+  "greW": "3.5",
+  "greP": "810"
+}{
+  "username": "daplovephysics",
+  "universities": {
+    "SUNY Stony Brook": "accepted",
+    "UW": "accepted",
+    "U of Maryland": "accepted",
+    "UCSB": "rejected",
+    "UCSD": "rejected",
+    "Michigan Ann Arbor": "rejected",
+    "John Hopkins": "rejected",
+    "Princeton": "rejected",
+    "Cornell": "rejected",
+    "U of Washington": "rejected"
+  },
+  "undergraduateInstitution": "Fast rising young Asia university with high QS ranking, well-known in engineering than physics",
+  "major": "Physics",
+  "overallGpa": "4.80",
+  "greQ": "163",
+  "greV": "163",
+  "greW": "4.0",
+  "greP": "910"
+}{
+  "username": "dissonantcricket",
+  "universities": {
+    "Caltech": "accepted",
+    "MIT": "accepted",
+    "U Chicago": "accepted",
+    "UC Berkeley": "rejected",
+    "Stanford": "rejected",
+    "U Maryland": "accepted",
+    "UIUC": "accepted",
+    "Syracuse": "accepted"
+  },
+  "undergraduateInstitution": "Top ranked Indian school. Decent Physics department but quite narrow in terms of research areas.",
+  "major": "Engineering",
+  "overallGpa": "9.23",
+  "greQ": "170",
+  "greV": "161",
+  "greW": "2",
+  "greP": "990"
+}{
+  "username": "roacheater",
+  "universities": {
+    "UIUC": "accepted",
+    "U Chicago": "rejected",
+    "U Michigan": "rejected",
+    "U Maryland (College Park)": "rejected",
+    "Georgia Tech": "accepted"
+  },
+  "undergraduateInstitution": "Big state school, top 30 in physics",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "168",
+  "greV": "166",
+  "greW": "5.5",
+  "greP": "710"
+}{
+  "username": "N/A",
+  "universities": {
+    "Caltech": "accepted",
+    "Harvard University": "accepted",
+    "Stanford University": "accepted",
+    "Cornell University": "accepted",
+    "University of Colorado, Boulder": "accepted",
+    "University of Rochester": "accepted",
+    "University of Washington": "accepted",
+    "University of Oregon": "accepted"
+  },
+  "undergraduateInstitution": "\"Liberal arts college\" but in effect a tech school. Not sure about reputation in Physics, but generally strong STEM rep.",
+  "major": "Physics",
+  "overallGpa": "3.9",
+  "greQ": "168",
+  "greV": "170",
+  "greW": "5.0",
+  "greP": "970"
+}{
+  "username": "CagedFaraday",
+  "universities": {
+    "UCal": "accepted",
+    "USouthern Cal.": "accepted",
+    "UMd": "accepted",
+    "UMich": "accepted",
+    "URochester": "accepted"
+  },
+  "undergraduateInstitution": "State school not well known.",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "158",
+  "greV": "154",
+  "greW": "3.5",
+  "greP": "720"
+}{
+  "username": "rdeb2018",
+  "universities": {
+    "Stanford": "rejected",
+    "Harvard": "rejected",
+    "MIT": "rejected"
+  },
+  "undergraduateInstitution": "Virginia Tech",
+  "major": "Math",
+  "overallGpa": "3.97",
+  "greQ": "169",
+  "greV": "164",
+  "greW": "5.5",
+  "greP": "900"
+}{
+  "username": "adenchfi",
+  "universities": {
+    "UIC": "accepted",
+    "UChicago": "rejected"
+  },
+  "undergraduateInstitution": "Small-mid-size private school, Illinois Institute of Technology. Physics dept. not well known but decent connections to ANL.",
+  "major": "Applied",
+  "overallGpa": "3.73",
+  "greQ": "161",
+  "greV": "160",
+  "greW": "3.5",
+  "greP": "770"
+}{
+  "username": "DandtheN",
+  "universities": {
+    "Cornell": "accepted",
+    "Harvard": "rejected",
+    "MIT": "rejected",
+    "Princeton": "rejected"
+  },
+  "undergraduateInstitution": "Large Canadian school, well known within Canada for physics, but not well known outside of Canada.",
+  "major": "Physics",
+  "overallGpa": "4.00",
+  "greQ": "170",
+  "greV": "168",
+  "greW": "5.5",
+  "greP": "990"
+}{
+  "username": "manbeard95",
+  "universities": {
+    "": "rejected",
+    "Columbia": "accepted",
+    "Duke": "accepted",
+    "MIT": "rejected",
+    "Stanford": "rejected",
+    "Stony Brook": "accepted",
+    "UC Berkeley": "rejected",
+    "UCLA": "accepted",
+    "UIUC": "accepted",
+    "U Washington Seattle": "accepted",
+    "Yale": "rejected"
+  },
+  "undergraduateInstitution": "Large public school, good physics reputation",
+  "major": "Physics",
+  "overallGpa": "3.86",
+  "greQ": "167",
+  "greV": "163",
+  "greW": "4.5",
+  "greP": "950"
+}{
+  "username": "anik2503",
+  "universities": {
+
+  },
+  "undergraduateInstitution": "Large public school in Asia",
+  "major": "Physics",
+  "overallGpa": "3.8",
+  "greQ": "158",
+  "greV": "152",
+  "greW": "4.0",
+  "greP": "820"
+}{
+  "username": "ham",
+  "universities": {
+    "Cornell": "accepted",
+    "Princeton": "rejected",
+    "Stanford": "rejected",
+    "CMU (Feb.24:": "accepted",
+    "Northeastern": "accepted"
+  },
+  "undergraduateInstitution": "Fast rising young Asia university with high QS ranking, well-known in engineering than physics",
+  "major": "Physics",
+  "overallGpa": "4.80",
+  "greQ": "164",
+  "greV": "155",
+  "greW": "3.5",
+  "greP": "900"
+}{
+  "username": "Sasuke",
+  "universities": {
+    "Washington State University": "accepted",
+    "University of Mississippi": "accepted",
+    "School": "rejected"
+  },
+  "undergraduateInstitution": "One of the top Science institutes in India. Well-Known in Physics(Not much in Astronomy)",
+  "major": "N/A",
+  "overallGpa": "N/A",
+  "greQ": "165",
+  "greV": "150",
+  "greW": "2",
+  "greP": "950"
+}{
+  "username": "jaybhambure",
+  "universities": {
+    "MIT": "rejected",
+    "Caltech": "rejected",
+    "Cornell": "rejected",
+    "Rochester": "rejected",
+    "Colorado Boulder": "rejected",
+    "North Carolina Chapel Hill": "rejected",
+    "Maryland College Park": "rejected",
+    "Michigan Ann Arbor": "rejected",
+    "University of Chicago": "rejected",
+    "Rutgers": "rejected",
+    "Brown University": "rejected",
+    "North Carolina state University": "rejected",
+    "Columbia": "rejected",
+    "SUNY Stony Brook": "rejected",
+    "Syracuse": "rejected",
+    "Virginia": "rejected"
+  },
+  "undergraduateInstitution": "University of Pune (India) B.Sc. And M.Sc.",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "162",
+  "greV": "153",
+  "greW": "2",
+  "greP": "880"
+}{
+  "username": "fmblanco",
+  "universities": {
+    "Accepted Waitlist": "rejected",
+    "": "accepted",
+    "Harvard": "rejected",
+    "Boston University Waitlisted 3/15": "rejected",
+    "M.I.T. Found": "rejected",
+    "Columbia": "rejected",
+    "NYU Waitlisted 2/26": "rejected",
+    "Princeton": "rejected",
+    "Cornell (Asked for a Video Interview to check on my english by e": "accepted",
+    "Berkeley": "rejected",
+    "Stanford": "rejected",
+    "Santa Barbara": "rejected",
+    "UCLA": "rejected",
+    "CalTech": "rejected",
+    "Oxford": "rejected"
+  },
+  "undergraduateInstitution": "University of Buenos Aires (Argentina). Top Universities in Latin America",
+  "major": "Physics",
+  "overallGpa": "N/A",
+  "greQ": "164",
+  "greV": "163",
+  "greW": "2",
+  "greP": "950"
+}{
+  "username": "physdreams",
+  "universities": {
+    "University of Toronto": "accepted",
+    "UMich Ann Arbor": "rejected",
+    "MIT": "rejected",
+    "Princeton": "rejected",
+    "Harvard": "rejected",
+    "Stanford": "rejected",
+    "Columbia": "rejected"
+  },
+  "undergraduateInstitution": "Women's Liberal Arts",
+  "major": "Physics",
+  "overallGpa": "3.47",
+  "greQ": "167",
+  "greV": "164",
+  "greW": "5.0",
+  "greP": "610"
+}{
+  "username": "Calibungadude",
+  "universities": {
+    "U Chicago": "rejected"
+  },
+  "undergraduateInstitution": "Large R1 Public University in top 20 for physics",
+  "major": "Physics",
+  "overallGpa": "3.58",
+  "greQ": "151",
+  "greV": "156",
+  "greW": "3.0",
+  "greP": "750"
+}{
+  "username": "RazorX",
+  "universities": {
+    "Cornell": "accepted",
+    "UPenn": "rejected",
+    "Northwestern": "accepted",
+    "Purdue": "accepted",
+    "Rice": "accepted",
+    "GaTech": "rejected"
+  },
+  "undergraduateInstitution": "Indian Institute (IIT)",
+  "major": "Physics",
+  "overallGpa": "9.3",
+  "greQ": "168",
+  "greV": "165",
+  "greW": "3",
+  "greP": "980"
+}{
+  "username": "ulegas",
+  "universities": {
+    "New York University": "rejected",
+    "Rice University": "rejected",
+    "University of Houston": "accepted",
+    "University of Maryland": "rejected",
+    "Vanderbilt University": "accepted"
+  },
+  "undergraduateInstitution": "Large state school known for partying (Not known for physics/no physics Ph.D. program)",
+  "major": "Honors",
+  "overallGpa": "3.11",
+  "greQ": "164",
+  "greV": "147",
+  "greW": "3.0",
+  "greP": "700"
+}{
+  "username": "soapdish",
+  "universities": {
+    "Princeton": "rejected",
+    "No hard feelings, its good to shoot for the stars. Surprised the other applicants to PPPL on this thread did not get": "accepted",
+    "MIT": "rejected",
+    "UMD College Park": "accepted",
+    "Columbia": "accepted",
+    "UT Austin": "accepted",
+    "CU Boulder": "accepted",
+    "Caltech": "rejected",
+    "UCSD": "rejected",
+    "UW Seattle": "rejected",
+    "U Rochester": "accepted",
+    "DOE CSGF": "rejected"
+  },
+  "undergraduateInstitution": "Georgia State University",
+  "major": "Physics",
+  "overallGpa": "3.74",
+  "greQ": "163",
+  "greV": "163",
+  "greW": "4.0",
+  "greP": "750"
+}{
+  "username": "mluka",
+  "universities": {
+    "Penn State (": "accepted",
+    "Indiana (": "accepted",
+    "Pitt (": "accepted",
+    "UC Davis (": "accepted",
+    "UC Irvine (": "accepted",
+    "Brown (": "accepted",
+    "OSU (": "accepted",
+    "Vanderbilt": "rejected",
+    "Arizona(": "accepted",
+    "Northwesterm (WAIT LISTED)": "accepted"
+  },
+  "undergraduateInstitution": "Large State school, top 20 in physics and mathematics",
+  "major": "Physics",
+  "overallGpa": "3.5",
+  "greQ": "164",
+  "greV": "165",
+  "greW": "5.0",
+  "greP": "910"
+}{
+  "username": "leotrino",
+  "universities": {
+    "Princeton": "rejected",
+    "Harvard": "rejected",
+    "U Chicago": "accepted",
+    "Berkeley": "accepted",
+    "U Michigan": "accepted",
+    "Columbia": "accepted",
+    "U Colorado Boulder": "accepted",
+    "U Maryland": "accepted",
+    "UW Madison": "accepted",
+    "UCSB": "rejected",
+    "UCSD": "accepted",
+    "Penn State": "accepted",
+    "Ohio State": "accepted"
+  },
+  "undergraduateInstitution": "big state",
+  "major": "Physics",
+  "overallGpa": "3.91",
+  "greQ": "168",
+  "greV": "158",
+  "greW": "4.5",
+  "greP": "990"
+}{
+  "username": "applepie",
+  "universities": {
+    "CU": "accepted",
+    "Michigan State": "accepted",
+    "Yale": "rejected",
+    "U of Arizona": "accepted",
+    "Ohio State": "accepted",
+    "UCSD": "accepted",
+    "IU": "accepted"
+  },
+  "undergraduateInstitution": "Big state school with US News physics rank about 40",
+  "major": "Physics",
+  "overallGpa": "3.99",
+  "greQ": "167",
+  "greV": "164",
+  "greW": "5.0",
+  "greP": "740"
+}{
+  "username": "crosser",
+  "universities": {
+    "Stanford": "accepted",
+    "Caltech": "rejected",
+    "University of Chicago": "accepted",
+    "Berkeley": "accepted",
+    "UCSB": "rejected",
+    "University of Rochester": "accepted",
+    "University of Maryland": "accepted",
+    "MIT": "rejected",
+  },
+  "undergraduateInstitution": "~top technical university in Poland, some reputation in Optics",
+  "major": "",
+  "overallGpa": "5.12",
+  "greQ": "170",
+  "greV": "156",
+  "greW": "2",
+  "greP": "970"
+}

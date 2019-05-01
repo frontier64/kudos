@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Graphs - Kudos</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="description" content="The site!">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="kudos">
+	<meta property="og:description" content="The Physics Graduate School Comparison platform">
+	<meta property="og:image" content="">
+	<meta property="og:url" content="lul">
+	<link rel="stylesheet" href="no-strap.css">
+<style type="text/css">
+
+div.page {
+	background-color: #a54900;
+	background-image: none;
+}
+
+</style>
+</head>
+<body>
+<div class="navbar">
+	<li class="navbar navbar-left">
+		<ul>
+			<a href="./kudos-no-strap.html">Home</a>
+		</ul>
+		<ul>
+			<a href="./data-page.html">Data</a>
+		</ul>
+		<ul>
+			<a href="#">Love</a>
+		</ul>
+		<ul>
+			<a href="#">Readme</a>
+		</ul>
+	</li>
+	<li class="navbar navbar-right">
+			<ul>
+				Login
+			</ul>
+			<ul>
+				Register
+			</ul>
+	</li>
+</div>
+<div class="page">
+	<table id="students" class="graph" style="margin: 20px 0px 20px 0px">
+		<tr>
+			<th><a href="#">Student</a></th>
+			<th><a href="#">GPA</a></th>
+			<th><a href="#">Q</a></th>
+			<th><a href="#">V</a></th>
+			<th><a href="#">W</a></th>
+			<th><a href="#">P</a></th>
+		</tr>
+	</table>
+</div>
+
+<script type="text/javascript">
+let table = document.getElementById('students')
+
+
+let k = new XMLHttpRequest();
+k.onreadystatechange = function(){
+	if (k.status == 200 && k.readyState == 4){
+		console.log("gucci mang");
+		for (index in k.response){
+			let user = k.response[index];
+			console.log(user.username);
+			let row = document.createElement('tr');
+
+			let username = document.createElement('td');
+			username.innerHTML = user.username;
+
+			let overallGpa = document.createElement('td');
+			overallGpa.innerHTML = user.overallGpa;
+
+			let greQ = document.createElement('td');
+			greQ.innerHTML = user.greQ;
+
+			let greV = document.createElement('td');
+			greV.innerHTML = user.greV;
+
+			let greW = document.createElement('td');
+			greW.innerHTML = user.greW;
+
+			let greP = document.createElement('td');
+			greP.innerHTML = user.greP;
+
+			row.append(username, overallGpa, greQ, greV, greW, greP);
+			table.appendChild(row);
+		}
+
+	} else {
+		console.log('waiting');
+	}
+}
+k.open('GET',"/data-gathering/posts/good-batch-2019.json");
+k.responseType = 'json';
+k.setRequestHeader('Accept', 'application/json');
+k.send();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+stanford;
+yale;
+cornell;
+university of washington;
+caltech;
+mit;
+princeton;
+uc berkeley, berkley, berkeley;
+university of chicago, uchicago;
+harvard;
+ut austin;
+ucsb;
+university of michigan;
+school;
