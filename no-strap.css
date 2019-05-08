@@ -2,21 +2,42 @@
     font-family: helvetica-thin;
     src: url('./assets/helvetica_neue_thin.ttf');
 }
+/* Eczar */
+@font-face {
+    font-family: Eczar;
+    src: url('./assets/Eczar/Eczar-Regular.ttf');
+}
+/* latin-ext */
+@font-face {
+  font-family: "Abril Fatface";
+  font-style: normal;
+  font-weight: 400;
+  src: local('Abril Fatface'), local('AbrilFatface-Regular'), url(https://fonts.gstatic.com/s/abrilfatface/v10/zOL64pLDlL1D99S8g8PtiKchq-lmjcDidBeT5g.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Abril Fatface';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Abril Fatface'), local('AbrilFatface-Regular'), url(https://fonts.gstatic.com/s/abrilfatface/v10/zOL64pLDlL1D99S8g8PtiKchq-dmjcDidBc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
 
-html{background-color:white;color:black;font-family: helvetica-thin; font-size: 16px; height: 100%;}
+html{background-color:white;color:black;font-family: 'helvetica-thin', serif; font-size: 16px; height: 100%;}
 html{line-height:130%;margin:0px;padding:0px}
 body{padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;
 	background-color: lightgrey;
 	height: 100%;
-	}
+}
 
 a {color: inherit;}
 section{display: inline-block; width: 30%; float: left}
 p.no-indent{text-indent: 0px;}
-p{text-indent: 40px; padding:0px;margin:5px 0px 5px 0px}
+p{padding:0px;margin:0px 20px 0px 0px}
 .footnotes p{text-indent: 2px}
-h1,h2,h3,lh{text-transform:uppercase;font-weight:bold}
-
+h1,h2,h3,lh{text-transform:uppercase;}
+ul {list-style-type: none;}
 h1 {
 	font-size:50px;
     font: 'Abril Fatface', serif;
@@ -30,45 +51,49 @@ h4{font-size: 14px;}
 h1 a,h2 a,h3 a{text-decoration:none}
 img{border:none;display:block;margin:6px auto 30px auto; width: 75%}
 
-ul{list-style:none;margin: 0px 0px 0px 0px}
-
 /* Start kudos specific css */
-li.navbar {
-	list-style-type: none;
-	padding: 15px;
-	height: auto;
+
+/* navbar */
+.navbar li{
+	float: left;
 }
-li.navbar>ul {
-	display: inline;
-	width: 60px;
-	height: 100%;
+.navbar li.right{
+	float: right;
+}
+.navbar li a{
+	display: block;
+	text-align: center;
+	padding: 20px 20px;
+}
+.navbar li a:hover{
+	background-color: #013a80;
+}
+.navbar li a.current:not(:hover){
+	background-color: #090090;
+}
+.navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0 50px 0 0;
 }
 div.navbar {
-	display: flex;
-	justify-content: space-between;
+	width: 100%;
 	color: white;
 	background-color: #013a96;
-	padding: 0px 0px 0px 0px;
-	width: 100%;
+	min-height: 60px;
 	z-index: 100;
 	position: fixed;
 	top: 0;
-	height: 50px;
+	overflow: hidden;
 }
 
-@media only screen and (max-width: 600px) {
-	div.navbar {
-		position: relative;
-		height: auto;
-		flex-direction: column;
-	}
-}
+/* end navbar */
+
+
+
 h3 h4 h5 {
 	display: inline;
 	width: inherit;
-}
-.navbar-right {
-	margin-right: 50px;
 }
 div.page {
 	margin-top: 50px;
@@ -100,17 +125,15 @@ div.enroll {
 	justify-content: center;
 	color: white
 }
-div.login {
+a.login {
 	margin: 0px 40px 0px 40px;
 	padding: 5px 30px 5px 30px;
-	background-color: darkblue;
-	opacity: 50%;
+	background-color: #013a96;
 	display: inline-block;
 }
-div.login:hover {
-	opacity: 100%;
+a.login:hover{
+	background-color: #013a80;
 }
-
 ul.footer {
 	height: 30px;
 	display: flex;
@@ -119,7 +142,7 @@ ul.footer {
 	margin-right: 50px;
 }
 ul.footer>li {
-	padding: 5px 5px 5px 5px;
+	padding: 5px;
 }
 div.form {
 	text-align: right;
@@ -138,4 +161,21 @@ table.graph >tr>th {
 table.graph {
 	border-collapse: collapse;
 	background-color: lightgrey;
+}
+
+@media only screen and (max-width: 600px) {
+	div.navbar {
+		position: relative;
+		height: auto;
+		flex-direction: column;
+	}
+	.navbar li{
+		float: left !important;
+	}
+	div.page{
+		margin-top: 0px;
+	}
+	a.login{
+		margin: 10px;
+	}
 }

@@ -26,9 +26,10 @@ for user in data:
 	for university in user["universities"]:
 		found = False
 		university = university.lower()
+		university = university.replace("university","").replace("of","").replace("school","").replace("the").trim()
 		for potentialUni in uni_list:
 			for nickname in potentialUni:
-				if university in nickname or sm(None, university, nickname).ratio() > .8:
+				if university in nickname or sm(None, university, nickname).ratio() > .95:
 					uni_counts[potentialUni[0]] += 1
 					found = True
 					break
@@ -44,9 +45,7 @@ print(OrderedDict(sorted(junk_unis.items(), key = itemgetter(1), reverse = True)
 uni_list_f.close()
 uni_list_f = open('uni-list.txt', 'a')
 for key in junk_unis:
-	print(junk_unis[key])
 	if junk_unis[key] > 5:
-		print("kek")
 		uni_list_f.write(key + ";\n")
 
 uni_list_f.close()

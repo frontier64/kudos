@@ -22,28 +22,14 @@ div.page {
 </head>
 <body>
 <div class="navbar">
-	<li class="navbar navbar-left">
-		<ul>
-			<a href="./kudos-no-strap.html">Home</a>
-		</ul>
-		<ul>
-			<a href="./data-page.html">Data</a>
-		</ul>
-		<ul>
-			<a href="#">Love</a>
-		</ul>
-		<ul>
-			<a href="#">Readme</a>
-		</ul>
-	</li>
-	<li class="navbar navbar-right">
-			<ul>
-				Login
-			</ul>
-			<ul>
-				Register
-			</ul>
-	</li>
+	<ul>
+		<li><a href="./kudos-no-strap.html">Home</a></li>
+		<li><a class="current" href="./data-page.html">Data</a></li>
+		<li><a href="mailto:frontier64@gmail.com?subject=Hello!">Love</a></li>
+		<li><a href="#">Readme</a></li>
+		<li><a href="./data-entry.html">Give Data!</a></li>
+		<li class="right"><a href="#">Login</a></li>
+		<li class="right"><a href="#">Register</a></li>
 </div>
 <div class="page">
 	<table id="students" class="graph" style="margin: 20px 0px 20px 0px">
@@ -76,7 +62,6 @@ k.onreadystatechange = function(){
 
 			let overallGpa = document.createElement('td');
 			overallGpa.innerHTML = user.overallGpa;
-
 			let greQ = document.createElement('td');
 			greQ.innerHTML = user.greQ;
 
@@ -101,6 +86,21 @@ k.open('GET',"/data-gathering/posts/good-batch-2019.json");
 k.responseType = 'json';
 k.setRequestHeader('Accept', 'application/json');
 k.send();
+
+
+const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
+
+const comparer = (idx, asc) => (a, b) => ((v1, v2) =>
+    v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : isNaN(v1) && !isNaN(v2) ? -1 : isNaN(v2) && !isNaN(v1) ? 1 : v1.toString().localeCompare(v2)
+    )(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
+
+// do the work...
+document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() => {
+    const table = th.closest('table');
+    Array.from(table.querySelectorAll('tr:nth-child(n+2)'))
+        .sort(comparer(Array.from(th.parentNode.children).indexOf(th), this.asc = !this.asc))
+        .forEach(tr => table.appendChild(tr) );
+})));
 
 </script>
 </body>
