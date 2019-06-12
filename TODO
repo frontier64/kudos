@@ -1,0 +1,16 @@
+## In Progress
+
+* Get better university data.
+	- Handle slightly different names for universities (i.e. Harvard, University of Harvard, Boulder, CU Boulder, Colorado University at Boulder)
+		- Found a list of common names for universities. Might be helpful.
+	- Maybe reformat the entire data set to be an array of university objects
+	- Cull bad university data
+* Parse GPA data to handle unusual GPA's (i.e 7.69/100, 88/100, etc)
+* Setup registration and login system
+* Improve the general look of the website
+* Calculate chances based off of university data
+
+## Done
+
+* Basic website formatting
+* 95% accurate student data for years back to 2013 excluding university acceptance.

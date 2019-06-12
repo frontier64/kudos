@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+	div.navbar {
+		position: relative;
+		height: auto;
+		flex-direction: column;
+	}
+	.navbar li{
+		float: left !important;
+	}
+	div.page{
+		margin-top: 0px;
+	}
+	a.login{
+		margin: 10px;
+	}
+}
